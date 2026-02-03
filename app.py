@@ -72,7 +72,7 @@ def render_page(title, content):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{title} | REPORT SHOT</title>
+    <title>{title} REPORT SHOT</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -193,7 +193,7 @@ def render_page(title, content):
                     </div>
                     <div class="logo-text">
                         <h1 class="logo">REPORT SHOT</h1>
-                        <p class="tagline">Powered by Sabit AI</p>
+                        <p class="tagline">Develop by Sabit</p>
                     </div>
                 </div>
                 <nav class="nav">
@@ -263,7 +263,7 @@ def render_page(title, content):
             </div>
             
             <div style="border-top:1px solid rgba(255,255,255,0.1); margin-top:40px; padding-top:20px; text-align:center; color:var(--gray-light); font-size:14px;">
-                <p>© 2024 REPORT SHOT. All rights reserved. | Developed by Sabit AI Team</p>
+                <p>© 2026 REPORT SHOT. All rights reserved. | Developed by Sabit</p>
             </div>
         </div>
     </footer>
@@ -397,17 +397,17 @@ def home():
             <div class="stat-card">
                 <i class="fas fa-shield-alt" style="font-size:48px; color:#4361ee; margin-bottom:20px;"></i>
                 <h3 style="margin-bottom:10px;">Secure Reporting</h3>
-                <p style="color:#6c757d;">AI-powered security with encrypted reports</p>
+                <p style="color:#6c757d;"security with encrypted reports</p>
             </div>
             <div class="stat-card">
                 <i class="fas fa-bolt" style="font-size:48px; color:#4cc9f0; margin-bottom:20px;"></i>
                 <h3 style="margin-bottom:10px;">Fast Response</h3>
-                <p style="color:#6c757d;">AI-assisted review within 24 hours</p>
+                <p style="color:#6c757d;">Review within 24 hours</p>
             </div>
             <div class="stat-card">
                 <i class="fas fa-robot" style="font-size:48px; color:#00c9ff; margin-bottom:20px;"></i>
-                <h3 style="margin-bottom:10px;">Sabit AI</h3>
-                <p style="color:#6c757d;">Powered by advanced AI technology</p>
+                <h3 style="margin-bottom:10px;">Sabit</h3>
+                <p style="color:#6c757d;">Powered by Sabit</p>
             </div>
         </div>
     </section>
@@ -420,7 +420,7 @@ def about():
     <section class="hero">
         <div class="container">
             <h1>About REPORT SHOT</h1>
-            <p>Professional Content Reporting System powered by Sabit AI</p>
+            <p>Professional Content Reporting System powered by Sabit </p>
         </div>
     </section>
     
